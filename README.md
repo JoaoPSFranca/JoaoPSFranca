@@ -2,14 +2,23 @@
 
 <hr>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular,c,cs,dotnet,git,java,js,jquery,linux,mysql,php,py,ts" />
+  </a>
+</p>
+
+<hr>
+
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=JoaoPSFranca&show_icons=true&theme=algolia&line_height=27"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPSFranca&layout=donut&theme=algolia"/>
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=JoaoPSFranca&theme=algolia"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=JoaoPSFranca&show_icons=true&theme=algolia&line_height=27&hide_border=true&count_private=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPSFranca&layout=donut&theme=algolia&hide_border=true&exclude%20repo=dotfiles&hide=css,html,scss"/>
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=JoaoPSFranca&theme=algolia&hide_border=true"/>
 </div>
 
+<hr>
+
 <div align="center"> 
-  <h2 style="color: #0194DD"> Let's get in touch </h2>
   <a href="https://www.instagram.com/joao.francap/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "francasjoaopedro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-franca-a56771157/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
