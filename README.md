@@ -4,8 +4,8 @@
 
 <div align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=JoaoPSFranca&show_icons=true&theme=algolia&line_height=27"/>
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=JoaoPSFranca&theme=algolia"/>
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPSFranca&layout=donut&theme=algolia"/>
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=JoaoPSFranca&theme=algolia"/>
 </div>
 
 <div align="center"> <h2 style="color: #0194DD"> Let's get in touch </h2>
